@@ -13,6 +13,14 @@
                 "tabWidth": 1,
                 "printWidth": 100
             }
+        },
+        {
+            "files": [
+                "*.css"
+            ],
+            "options": {
+                "printWidth": 60
+            }
         }
     ]
 }
