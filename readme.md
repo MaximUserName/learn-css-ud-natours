@@ -1,3 +1,3 @@
-### Udemy Natours project
+# Udemy Natours project
 
-Learning CSS project.
+## Learning CSS project
