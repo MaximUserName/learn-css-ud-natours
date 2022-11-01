@@ -1,3 +1,3 @@
 ### Udemy Natours project
 
-Learing CSS project.
+Learning CSS project.
