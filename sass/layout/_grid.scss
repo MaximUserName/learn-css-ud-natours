@@ -1,8 +1,7 @@
 .row {
     max-width: $grid-width; // 1140px
-    background: #eee;
+    // background: #eee;
     margin: 0 auto;
-    border: 2px dashed black;
 
     &:not(:last-child) {
         margin-bottom: $gutter-vertical;
@@ -13,11 +12,10 @@
     [class^="col-"] {
         // border: 1px solid blue;
         float: left;
-        background-color: orangered;
         padding: 20px;
         text-align: center;
         font-size: 20px;
-        color: white;
+        // color: white;
 
         &:not(:last-child) {
             margin-right: $gutter-horizontal;
