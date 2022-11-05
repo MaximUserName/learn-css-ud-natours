@@ -28,10 +28,7 @@
  }
 
  .section-stories {
-    background-color: $color-grey-light-1;
+    //background-color: $color-grey-light-1; // comment for video background
     padding: 15rem 0;
-
-    .bg-video {
-        
-    }
+    position: relative;
  }
