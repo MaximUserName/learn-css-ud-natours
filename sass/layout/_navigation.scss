@@ -51,7 +51,7 @@
 
 	&__list {
 		position: absolute;
-		@include centerHorizontalVertical;
+		@include absCenter;
 		list-style-type: none;
 		text-align: center;
 		width: 100%;
