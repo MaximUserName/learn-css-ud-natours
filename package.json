@@ -2,15 +2,24 @@
   "name": "learn-css-ud-natours",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.18",
+    "postcss-nested": "^6.0.0",
+    "postcss-nesting": "^10.2.0",
     "prettier": "^2.7.1",
     "sass": "^1.55.0",
     "vite": "^3.2.0"
-  }
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "Firefox ESR",
+    "not dead"
+  ]
 }
